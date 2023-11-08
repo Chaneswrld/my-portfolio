@@ -12,7 +12,7 @@ Ofcourse you may take full advantage of editing it yourself through the code if 
 export let pageStyling = {
     backgroundColor: "#201f25", // Main Page Background Color
     foregroundColor: "#33313a", // Foreground Color
-    primaryColor: "#38cdee", // Neon Color
+    primaryColor: "#5B3CC7", // Neon Color
     secondaryColor: "#4edcff", // Underglow Color
     textColor: "#bebebe",
     subTextColor: "#616161",
@@ -34,7 +34,7 @@ export let navigation = {
 
     leftNavigation: [ // Add items to the left side of the navigation Bar
         {
-            text: "_External",
+            text: "Welcome!",
             url: "#",
         },
     ],
@@ -75,10 +75,10 @@ export let navigation = {
 // Information ------------------------------------------------------------------------
 
 export let information = {
-    fullName: "John D. Doe", // Name in Profile Banner
+    fullName: "Cheyne Stanley Randau Burberry", // Name in Profile Banner
     welcomeMsg: "Welcome! I am,", // Welcome subheading above Name
     aboutMe: "Short Description of yourself!", // Short Description
-    companyName: "Position @ Company", // Your position @ a Company
+    companyName: "IT Support Engineer Junior Executive @ Planet Group (M) sdn bhd", // Your position @ a Company
     // Replace with the URL to your image (URL or Local Image)
     profilePhoto: "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258143-stock-illustration-businessman-avatar-profile-picture.jpg",
 };
